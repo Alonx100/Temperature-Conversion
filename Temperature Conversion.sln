@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Temperature Conversion", "Temperature Conversion.pyproj", "{5B47E194-3F99-4B97-B43E-7DEC51BE72CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B47E194-3F99-4B97-B43E-7DEC51BE72CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B47E194-3F99-4B97-B43E-7DEC51BE72CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAB7CEC-1B6A-4545-857D-6A4DA66137A2}
+	EndGlobalSection
+EndGlobal
